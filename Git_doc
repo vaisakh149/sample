@@ -15,10 +15,15 @@ git log :to see to commit id etc
 
 git checkout
 
-git branch
+git branch name
+git branch: will show in which beanch you are in.
 
 git mearge feature 
 :Fast-forward
+
+
+git diff: to compare to version or to know the newly updates
+
 
 
 
