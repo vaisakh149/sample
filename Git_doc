@@ -1,4 +1,4 @@
-Git
+ Git
 To config user name: git config --global user.name "Vaisakh"
 git config eamil: git config --global user.email vaisakh.m@gmail.com
 //to create a new project from scrach 
@@ -28,8 +28,9 @@ git stash: to clean all the typed contened withon addor commited
 
 
 
-git remote add hub ttps://github.com/vaisakh149/sample.git
+git remote add hub https://github.com/vaisakh149/sample.git
 
+git push hub master 
 
 
 
