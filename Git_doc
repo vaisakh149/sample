@@ -16,3 +16,9 @@ git log :to see to commit id etc
 git checkout
 
 git branch
+
+git mearge feature 
+:Fast-forward
+
+
+
