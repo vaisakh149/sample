@@ -2,8 +2,14 @@
 To config user name: git config --global user.name "Vaisakh"
 git config eamil: git config --global user.email vaisakh.m@gmail.com
 //to create a new project from scrach 
+
 1. create a floder/directory
 2. cd to the floder eg: cd /Desktop/Git-learning_project$
+
+
+git config --global user.name "your name"
+git config --global user.email "email"
+
 
 git init
 git status
@@ -31,6 +37,23 @@ git stash: to clean all the typed contened withon addor commited
 git remote add hub https://github.com/vaisakh149/sample.git
 
 git push hub master 
+
+
+git clone
+
+
+manger add to team then new guy need to accept the request
+then following this
+clone : downalo to local
+first create branch : best pratice to do because lot of people work in same master/orgin branch
+then checkout in the new branch: edit/update ur work
+---add and commit(nor sure)
+git pull :git to local 
+git merge master
+git add --all
+git commit -m " master merge to new branch"
+git push orgin 
+
 
 
 
