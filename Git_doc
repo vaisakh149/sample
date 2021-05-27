@@ -1,0 +1,18 @@
+Git
+To config user name: git config --global user.name "Vaisakh"
+git config eamil: git config --global user.email vaisakh.m@gmail.com
+//to create a new project from scrach 
+1. create a floder/directory
+2. cd to the floder eg: cd /Desktop/Git-learning_project$
+
+git init
+git status
+git commit
+   git add
+   git commit -m "message"
+   
+git log :to see to commit id etc
+
+git checkout
+
+git branch
